@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/CostlyDelightfulKoala-size_restricted.gif)](https://github.com/singhvishesh9484)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--Id3ia7lI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.devrant.com/devrant/rant/r_42298_vkdre.jpg)](https://github.com/singhvishesh9484)
 <h1 align="center">Hi 👋, I'm Vishesh Kumar Singh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" src="https://raw.githubusercontent.com/ScorchingShade/ScorchingShade/main/code.gif" alt="Coding" width="400">
