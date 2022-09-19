@@ -1,6 +1,7 @@
 [![MasterHead](https://cdn.quotesgram.com/img/80/93/377976615-quote-talk-is-cheap-show-me-the-code-linus-torvalds-273528.jpg)](https://github.com/singhvishesh9484)
 <h1 align="center">Hi 👋, I'm Vishesh Kumar Singh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+<p>I am a highly motivated individual driven Computer Science Engineering student and currently learning Full Stack Web Development. I have a knowledge of JavaScript, HTML, CSS, MERN Stack, and Python. I am passionate about problem solving, Data Structure & algorithms, and social responsibilities. I like to treat people with respect and writing Hindi Poetries</p>
 <img align="right" src="https://raw.githubusercontent.com/ScorchingShade/ScorchingShade/main/code.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhvishesh9484&label=Profile%20views&color=0e75b6&style=flat" alt="singhvishesh9484" /> </p>
